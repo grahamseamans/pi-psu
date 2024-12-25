@@ -2,3 +2,4 @@ _autosave*
 *auto_saved*
 fp-info-cache
 pi-psu-backups/
+*.lck
