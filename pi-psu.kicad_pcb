@@ -433,7 +433,7 @@
 		(descr "Diode SMC (DO-214AB)")
 		(tags "Diode SMC (DO-214AB)")
 		(property "Reference" "D3"
-			(at 0 -4.1 0)
+			(at -0.15 -4.05 0)
 			(layer "F.SilkS")
 			(uuid "f45c575b-4e54-4592-b3ce-2fa5d4b6fede")
 			(effects
@@ -770,7 +770,7 @@
 		(descr "CP, Radial series, Radial, pin pitch=7.50mm, , diameter=18mm, Electrolytic Capacitor")
 		(tags "CP Radial series Radial pin pitch 7.50mm  diameter 18mm Electrolytic Capacitor")
 		(property "Reference" "C2"
-			(at 3.75 -15.45 90)
+			(at -2.52222 -8.1 0)
 			(layer "F.SilkS")
 			(uuid "eece94b0-9a31-473a-9fa8-9b8f10cf60e0")
 			(effects
@@ -3970,6 +3970,7 @@
 		(property "Reference" "I1"
 			(at 2.54 -0.2 90)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "1d6f6b9f-9fcd-4477-aa15-ed44107fa138")
 			(effects
 				(font
@@ -4239,7 +4240,7 @@
 		(descr "Resistor SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor")
 		(property "Reference" "R2"
-			(at 0 -1.82 0)
+			(at -3.4 -1.15 0)
 			(layer "F.SilkS")
 			(uuid "bfbac52d-79cd-4b69-80ce-131ed645c070")
 			(effects
@@ -4452,7 +4453,7 @@
 		(descr "CP, Radial series, Radial, pin pitch=2.00mm, , diameter=5mm, Electrolytic Capacitor")
 		(tags "CP Radial series Radial pin pitch 2.00mm  diameter 5mm Electrolytic Capacitor")
 		(property "Reference" "C3"
-			(at 1 -3.75 0)
+			(at 0.805112 3.7 0)
 			(layer "F.SilkS")
 			(uuid "b41c8e92-0171-4e85-b950-52e38405e049")
 			(effects
@@ -5812,6 +5813,7 @@
 		(property "Reference" "H4"
 			(at 0 -3.85 0)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "1c704f2e-29ba-441a-b56f-c87dbc6ffc55")
 			(effects
 				(font
@@ -5923,7 +5925,7 @@
 		(descr "CP, Radial series, Radial, pin pitch=2.00mm, , diameter=5mm, Electrolytic Capacitor")
 		(tags "CP Radial series Radial pin pitch 2.00mm  diameter 5mm Electrolytic Capacitor")
 		(property "Reference" "C4"
-			(at 1 -3.75 0)
+			(at 1 3.6 0)
 			(layer "F.SilkS")
 			(uuid "466f1b9d-0fc8-45a4-8918-9e5da3eab5c4")
 			(effects
@@ -7281,7 +7283,7 @@
 		(descr "Resistor SMD 2512 (6332 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor")
 		(property "Reference" "R4"
-			(at 0 -2.62 90)
+			(at 0 3.1 0)
 			(layer "F.SilkS")
 			(uuid "e01daa0b-dd8b-484c-a0e0-b575d6fa8f7e")
 			(effects
@@ -7496,6 +7498,7 @@
 		(property "Reference" "H3"
 			(at 0 -3.85 0)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "3b3735a0-8290-44bc-ae91-4fb3d485e8ac")
 			(effects
 				(font
@@ -7607,7 +7610,7 @@
 		(descr "Diode SMC (DO-214AB)")
 		(tags "Diode SMC (DO-214AB)")
 		(property "Reference" "D4"
-			(at 0 -4.1 0)
+			(at 0 4.35 0)
 			(layer "F.SilkS")
 			(uuid "d3771337-68e0-485d-ae12-e254713cbeba")
 			(effects
@@ -7944,7 +7947,7 @@
 		(descr "Resistor SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor")
 		(property "Reference" "R3"
-			(at 0 -1.82 90)
+			(at 3.275 0 0)
 			(layer "F.SilkS")
 			(uuid "8dd9b79d-d88a-4857-bed6-ce0e51926fe3")
 			(effects
@@ -8157,7 +8160,7 @@
 		(descr "Diode SMC (DO-214AB)")
 		(tags "Diode SMC (DO-214AB)")
 		(property "Reference" "D2"
-			(at 0 -4.1 0)
+			(at -0.05 4.25 0)
 			(layer "F.SilkS")
 			(uuid "6a87411c-ea1c-4181-867b-650bf219cf25")
 			(effects
@@ -8494,7 +8497,7 @@
 		(descr "TO-3P-3, Horizontal, RM 5.45mm, , see https://toshiba.semicon-storage.com/ap-en/design-support/package/detail.TO-3P(N).html")
 		(tags "TO-3P-3 Horizontal RM 5.45mm ")
 		(property "Reference" "Q2"
-			(at 0 -5.32 0)
+			(at -2.5 19.2 0)
 			(layer "F.SilkS")
 			(uuid "8112967c-f9d4-4997-be5f-fb4c6e8f8924")
 			(effects
@@ -8954,7 +8957,7 @@
 		(descr "CP, Radial series, Radial, pin pitch=7.50mm, , diameter=18mm, Electrolytic Capacitor")
 		(tags "CP Radial series Radial pin pitch 7.50mm  diameter 18mm Electrolytic Capacitor")
 		(property "Reference" "C1"
-			(at 3.75 -10.25 90)
+			(at -2.62222 -8.3 0)
 			(layer "F.SilkS")
 			(uuid "37fdab88-6253-4cc5-9e1c-5115c8e0ddb8")
 			(effects
@@ -12152,7 +12155,7 @@
 		(descr "SOT, 3 Pin (https://www.jedec.org/system/files/docs/to-236h.pdf variant AB), generated with kicad-footprint-generator ipc_gullwing_generator.py")
 		(tags "SOT TO_SOT_SMD")
 		(property "Reference" "Q1"
-			(at 0 -2.4 0)
+			(at 0 3.075 0)
 			(layer "F.SilkS")
 			(uuid "e362fc41-9600-4794-8f43-cc2abb1025e5")
 			(effects
@@ -12486,6 +12489,7 @@
 		(property "Reference" "H1"
 			(at 0 -3.85 0)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "df40b708-4c97-4312-9319-5630fc85b447")
 			(effects
 				(font
@@ -12597,7 +12601,7 @@
 		(descr "Diode Mini-MELF (SOD-80)")
 		(tags "Diode Mini-MELF (SOD-80)")
 		(property "Reference" "D5"
-			(at 0 -2 0)
+			(at -0.1 2 0)
 			(layer "F.SilkS")
 			(uuid "a7cfdfbe-c68e-4614-b2b9-370099554e51")
 			(effects
@@ -12946,6 +12950,7 @@
 		(property "Reference" "H2"
 			(at 0 -3.85 0)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "8063060f-6c06-4c94-9b5a-730083333647")
 			(effects
 				(font
@@ -13713,7 +13718,7 @@
 		(descr "Resistor SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor")
 		(property "Reference" "R1"
-			(at 0 -1.82 90)
+			(at 3.075 0 0)
 			(layer "F.SilkS")
 			(uuid "762b8555-1f47-4c87-9065-5f63b509e166")
 			(effects
@@ -13926,7 +13931,7 @@
 		(descr "Diode SMC (DO-214AB)")
 		(tags "Diode SMC (DO-214AB)")
 		(property "Reference" "D1"
-			(at 0 -4.1 0)
+			(at -0.05 -4.05 0)
 			(layer "F.SilkS")
 			(uuid "99e6dcb8-283c-4074-ad25-bb82bc87b395")
 			(effects
@@ -14423,6 +14428,54 @@
 		)
 		(layer "Edge.Cuts")
 		(uuid "d2258deb-1bf9-48e4-a892-65c1a9a3d3aa")
+	)
+	(gr_text "-\n"
+		(at 193 82.3 0)
+		(layer "F.SilkS")
+		(uuid "516a1244-9d40-4c70-823e-780ed65097a7")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "ac"
+		(at 116 87 0)
+		(layer "F.SilkS")
+		(uuid "59988d87-3c41-4161-a0a6-a9ed2d8df1ec")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "+"
+		(at 192.9 76.8 0)
+		(layer "F.SilkS")
+		(uuid "7a2915f0-6a5e-4804-a41e-205ee046ceac")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "pi-psu | cibo \nl-adapter + aya"
+		(at 169.9 69.9 0)
+		(layer "F.SilkS")
+		(uuid "9535f8bf-2cbf-4b1d-8415-646144ab2274")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify bottom)
+		)
 	)
 	(segment
 		(start 178.676258 91)
