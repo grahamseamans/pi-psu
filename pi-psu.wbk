@@ -21,18 +21,13 @@
       "showGrid": true,
       "traces": [
         {
-          "color": "rgb(255, 127, 0)",
-          "signal": "I(D5)",
+          "color": "rgb(228, 26, 28)",
+          "signal": "I(Q2:b)",
           "trace_type": 258
         },
         {
-          "color": "rgb(166, 86, 40)",
-          "signal": "I(JQ1:d)",
-          "trace_type": 258
-        },
-        {
-          "color": "rgb(255, 255, 51)",
-          "signal": "I(R2)",
+          "color": "rgb(77, 175, 74)",
+          "signal": "I(Q2:c)",
           "trace_type": 258
         }
       ]
