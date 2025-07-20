@@ -21,8 +21,13 @@
       "showGrid": true,
       "traces": [
         {
-          "color": "rgb(255, 127, 0)",
-          "signal": "V(ac)",
+          "color": "rgb(228, 26, 28)",
+          "signal": "V(out)",
+          "trace_type": 257
+        },
+        {
+          "color": "rgb(55, 126, 184)",
+          "signal": "V(pre-reg)",
           "trace_type": 257
         }
       ]
