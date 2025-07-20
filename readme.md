@@ -1,3 +1,5 @@
+# THE PINS ON BOTH TRANSISTORS ARE FLIPPED FOR BASE AND COLLECTOR. otherwise it works.
+
 # Pi PSU
 
 A **5V linear power supply** designed for Raspberry Pi and similar devices.
